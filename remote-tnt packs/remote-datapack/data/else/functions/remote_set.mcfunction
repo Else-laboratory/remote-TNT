@@ -1,0 +1,2 @@
+give @p minecraft:tnt{display:{Name:'[{"text":"リモート爆弾","color":"red","bold":"true"}]'}} 64
+give @p minecraft:carrot_on_a_stick{CustomModelData:1,display:{Name:'[{"text":"リモートコントローラ","color":"glay","bold":"true"}]'}} 1
